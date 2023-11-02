@@ -1,3 +1,11 @@
+# Carson Vanderheyden
+#Refactor Resistor class and add unit tests
+#Refactor the Resistor class to improve code readability and adhere to PEP 8 style guidelines.
+#Improve comments and documentation within the class for clarity.
+#Add detailed unit tests for various Resistor methods, ensuring they work.
+#This commit enhances the Resistor class and includes a comprehensive set of unit tests for thorough testing and validation.
+
+
 # Resistor class models a resistor that behaves according to Ohm's law.
 
 # MODIFIED TUE FEB 6: fix the PyLint warnings in the unit test code.
