@@ -1,4 +1,12 @@
 """TPRG2131 Winter 202x RC class starter with simplistic test code."""
+"""Carson Vanderheyden"""
+"""Add ResistorCapacitor class and test code
+- Introduce a ResistorCapacitor class 
+- Implement the __init__ method for initializing the class with resistance, capacitance, and an initial voltage.
+- Add a mutator method set_voltage to set the voltage for the network.
+Test the ResistorCapacitor class with sample code in a conditional main block.
+- Create instances of ResistorCapacitor and set voltages for testing.
+- Print the properties and voltage values for both instances."""
 
 class ResistorCapacitor (object):
     """Model a resistor-capacitor network"""
